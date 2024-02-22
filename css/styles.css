@@ -1,0 +1,17 @@
+h1 {
+    color: pink;
+    font-size: 100px;
+
+}
+
+p{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(../img/taylor-swift-no.gif) ;
+    background-size: .001% ;
+}
+
